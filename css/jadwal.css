@@ -1,0 +1,111 @@
+/* CSS untuk Header dan Footer */
+.navbar {
+  top: 0;
+  position: sticky;
+  width: 100%;
+  z-index: 1;
+}
+
+a img {
+  top: 15px;
+  left: 160px;
+  width: 110px;
+  height: 59px;
+  background: transparent 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+
+#navbarSupportedContent a {
+  font-family: 'Mulish',
+    sans-serif;
+  color: #19345E;
+}
+
+#pointer a {
+  color: #F47522;
+}
+
+#navbarSupportedContent button {
+  font-family: 'Mulish', sans-serif;
+  top: 26px;
+  left: 944px;
+  width: 130px;
+  height: 38px;
+  background: #F47522;
+  border-radius: 50px;
+}
+
+footer {
+  top: auto;
+  left: 0px;
+  width: auto;
+  height: 141px;
+  background: #19345E 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+
+#social-media a img {
+  width: 25px;
+  height: 25px;
+  margin: 10px;
+}
+
+#social-media span {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Akhir CSS untuk Header dan Footer */
+
+main {
+  margin-bottom: 243px;
+}
+
+#get-in {
+  font-family: 'Mulish',
+    sans-serif;
+  color: #19345E;
+}
+
+#get-in span {
+  width: 35px;
+  height: 4px;
+  margin: 30px 15px;
+  background: #F47522;
+  border-radius: 2px;
+}
+
+.col-lg-4 img {
+  width: 15px;
+  height: 15px;
+}
+
+#social-profile img {
+  width: 25px;
+  height: 25px;
+}
+
+p, span, label {
+  font-family: 'Poppins',
+  sans-serif;
+}
+
+#send {
+  background: #F47522;
+  border-radius: 50px;
+}
+
+#send span img {
+  width: 20px;
+  height: 20px;
+  margin-right: 5px;
+}
+
+.form-label span {
+  color: red;
+}
+
+#copy p {
+  font-family: Arial,
+  Helvetica,
+  sans-serif;
+}
